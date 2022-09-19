@@ -12,7 +12,6 @@
 - [20210714_FASTBOOT的USB3.0问题.md](blogs/20210714_FASTBOOT的USB3.0问题.md)
 - [20210819_Centos7安装Nginx（非YUM）.md](blogs/20210819_Centos7安装Nginx（非YUM）.md)
 - [20210819_Nginx使用fancyindex索引.md](blogs/20210819_Nginx使用fancyindex索引.md)
-- [20210929_OSPF.md](blogs/20210929_OSPF.md)
 - [20211010_BFD.md](blogs/20211010_BFD.md)
 - [20211028_CSGO服务器搭建.md](blogs/20211028_CSGO服务器搭建.md)
 - [20211102_CentOS7学习.md](blogs/20211102_CentOS7学习.md)
